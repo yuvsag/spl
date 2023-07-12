@@ -1,0 +1,20 @@
+{
+    "id": "0/0",
+    "name": "protocol/example",
+    "fields": [
+        {
+            "name": "field1",
+            "datatype": "number",
+            "length": 2
+        },
+        {
+            "name": "field2",
+            "datatype": "enum",
+            "length": 1,
+            "options": {
+                "ON": 1,
+                "OFF": 0
+            }
+        }
+    ]
+}
